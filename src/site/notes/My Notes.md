@@ -9,7 +9,7 @@ Hi! I'm Deven Bhatkar, a tech enthusiast and Engineering graduate 🎓.
 
 This site is my personal digital notebook 🗒️ where I upload notes on various topics I am learning and revising.
 
-The notes here are a combination of my own learning ✍️ and insights collected using AI tools like ChatGPT 🤖 and Claude. They may contain errors or rough drafts ⚠️ — please verify information from trusted sources 📚.??
+The notes here are a combination of my own learning ✍️ and insights collected using AI tools like ChatGPT 🤖 and Claude. They may contain errors or rough drafts ⚠️ — please verify information from trusted sources 📚.
 
 ---
 
@@ -19,7 +19,7 @@ The notes here are a combination of my own learning ✍️ and insights collecte
     
 - ☁️ AWS
     
-- ☕ Java
+- ☕ [[Navigation/JAVA\|JAVA]]
     
 
 ---
