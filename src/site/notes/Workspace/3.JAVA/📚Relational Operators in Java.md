@@ -41,4 +41,4 @@ Relational operators help you:
     
 - Always return a boolean result.
 
-[[Workspace/3.JAVA/📚Relational Operators in Java\|next]]
+[[Workspace/3.JAVA/📚Type Conversion in Java.\|next]]

@@ -79,4 +79,4 @@ public static void main(String[] args)
 ```
 This is the **starting point** of the program.
 
-[[Workspace/3.JAVA/📚 How Java Works\|next]]
+[[Workspace/3.JAVA/📚 Variables in Java.\|next]]

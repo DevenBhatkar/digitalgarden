@@ -49,4 +49,4 @@ if (age >= 18 && citizen == true) {
     
 - Use **`!`** to **negate** a condition
 
-[[Workspace/3.JAVA/📚Logical Operators in Java\|next]]
+[[Workspace/3.JAVA/📚If Else in Java\|next]]

@@ -104,4 +104,4 @@ System.out.println(c); // Output: B
 | Hexadecimal | `0x7E`              | Base-16 numbers             |
 | Binary      | `0b101`             | Base-2 numbers              |
 
-[[Workspace/3.JAVA/📚Literals in Java\|next]]
+[[Workspace/3.JAVA/📚Relational Operators in Java\|next]]

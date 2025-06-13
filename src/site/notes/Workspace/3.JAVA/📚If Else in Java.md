@@ -71,4 +71,4 @@ if(marks >= 90) {
     
 - Only **one matching block** runs
 
-[[Workspace/3.JAVA/📚If Else in Java\|next]]
+[[Workspace/3.JAVA/📚Ternary Operator in Java\|next]]
