@@ -7,7 +7,9 @@
 > **Literals** are the **actual fixed values** that you assign to variables.
 
 For example:
-![Pasted image 20250613174735.png](/img/user/img/Pasted%20image%2020250613174735.png)
+```java
+int num=9;
+```
 Here, `9` is a **literal** — a hardcoded value directly written in the code.
 
 ---
