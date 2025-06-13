@@ -66,7 +66,7 @@ boolean isActive = true;
 ```
 You **cannot use `0` or `1`** for boolean in Java.
 
-### ❗ Common Errors from the Video:
+### ❗ Common Errors :
 
 - Trying to store a number outside the range of the type (e.g., `byte b = 129;`) will cause a **lossy conversion error**.
     
