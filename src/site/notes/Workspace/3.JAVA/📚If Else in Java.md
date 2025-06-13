@@ -70,3 +70,5 @@ if(marks >= 90) {
 - Use `if-else-if` when you have **more than two possible outcomes**
     
 - Only **one matching block** runs
+
+[[Workspace/3.JAVA/📚If Else in Java\|next]]

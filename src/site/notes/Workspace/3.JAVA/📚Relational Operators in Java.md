@@ -40,3 +40,5 @@ Relational operators help you:
 - Make decisions in conditions like `if` statements
     
 - Always return a boolean result.
+
+[[Workspace/3.JAVA/📚Relational Operators in Java\|next]]

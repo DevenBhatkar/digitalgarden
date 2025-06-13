@@ -49,3 +49,5 @@ switch(day) {
 - Works with `int`, `char`, `String`, `enum` (not `float` or `double`)
     
 - Use `break` to **prevent fall-through**
+
+[[Workspace/3.JAVA/📚Loops in Java\|next]]

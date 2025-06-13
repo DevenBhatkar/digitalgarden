@@ -64,4 +64,4 @@ int result = num1 + num2;
 System.out.println(result);  // Output: 8
 ```
 
-
+[[Workspace/3.JAVA/📚 Variables in Java.\|next]]

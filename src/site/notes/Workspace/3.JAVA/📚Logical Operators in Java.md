@@ -48,3 +48,5 @@ if (age >= 18 && citizen == true) {
 - Use **`||`** when **any condition can be true**
     
 - Use **`!`** to **negate** a condition
+
+[[Workspace/3.JAVA/📚Logical Operators in Java\|next]]

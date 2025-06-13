@@ -44,3 +44,5 @@ If the value of `a` is out of `byte`'s range, data will be lost.
 - Implicit conversion is **safe**, explicit conversion **needs caution**.
     
 - Java compiler **stops you** from narrowing unless you use explicit casting.
+
+[[Workspace/3.JAVA/📚Type Conversion in Java.\|next]]

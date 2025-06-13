@@ -26,8 +26,9 @@ System.out.println(result);
 
 ### 🧠 Summary:
 
-- Ternary = short form of `if-else`
+- Ternary = short form of [[📚If Else in Java|`if-else`]]
     
 - Saves space, makes simple conditions concise
     
 - Best for assigning values, not complex logic
+[[Workspace/3.JAVA/📚Switch Statement in Java\|next]]

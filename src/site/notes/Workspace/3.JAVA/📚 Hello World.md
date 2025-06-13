@@ -95,3 +95,8 @@ JVM Executes
 
 > 💡 You install **JDK** as a developer.  
 > To **run** Java programs on another machine, just **JRE** is enough.
+
+[[Workspace/3.JAVA/📚 How Java Works\|next]]
+
+
+

@@ -77,3 +77,7 @@
 - Now owned by **Oracle**.
     
 - Java receives **updates every 6 months**, with small improvements and features being added regularly.
+
+
+[[Workspace/3.JAVA/📚 Hello World\|next]]
+

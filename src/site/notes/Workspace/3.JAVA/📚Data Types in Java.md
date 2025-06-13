@@ -71,3 +71,5 @@ You **cannot use `0` or `1`** for boolean in Java.
 - Trying to store a number outside the range of the type (e.g., `byte b = 129;`) will cause a **lossy conversion error**.
     
 - Trying to store decimal in a `float` without `f` will also cause an error.
+
+[[Workspace/3.JAVA/📚Data Types in Java\|next]]
