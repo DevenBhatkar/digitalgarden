@@ -5,12 +5,16 @@
 ### 👨‍💻 Step 1: Writing Java Code in a File
 
 Initially tried this inside `hello.java`:
-![Pasted image 20250612151334.png](/img/user/Pasted%20image%2020250612151334.png)
+```java
+System.out.println("Hello World");
+```
 
 
 ❌ **This gives an error** when you try to compile it using:
 
-![Pasted image 20250612151422.png](/img/user/Pasted%20image%2020250612151422.png)
+```bash
+javac hello.java
+```
 ---
 
 ### 🧠 Why the Error?
@@ -28,7 +32,13 @@ Java code must follow a **structure**:
 
 ### 🏗️ Step 4: Proper Structure of Java Code
 
-![Pasted image 20250612151457.png](/img/user/Pasted%20image%2020250612151457.png)
+```java
+class hello {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+```
 
 #### 🧱 Explanation:
 
@@ -46,22 +56,32 @@ Java code must follow a **structure**:
 
 #### ✅ To compile:
 
-![Pasted image 20250612151519.png](/img/user/Pasted%20image%2020250612151519.png)
+```java
+javac hello.java
+```
 
 This creates: `hello.class`
 
 #### ▶️ To run:
 
-![Pasted image 20250612151552.png](/img/user/Pasted%20image%2020250612151552.png)
+```
+java hello
+```
 
 **Output:**
 
-![Pasted image 20250612151612.png](/img/user/Pasted%20image%2020250612151612.png)
+```
+Hello World
+```
 ---
 
 ### 🧾 Behind the Scenes (Simplified)
 
-![Pasted image 20250612151638.png](/img/user/Pasted%20image%2020250612151638.png)
+Your Code (.java)
+   ⬇️ javac
+Bytecode (.class)
+   ⬇️ java
+JVM Executes
 
 ---
 

@@ -24,7 +24,7 @@
 
 Here’s how things are stacked up on your machine:
 
-![Pasted image 20250613173317.png](/img/user/Pasted%20image%2020250613173317.png)
+![Pasted image 20250613190429.png](/img/user/Pasted%20image%2020250613190429.png)
 
 - JVM is specific to the OS.  
     Example: A Windows JVM won’t run on macOS, and vice versa.
@@ -35,16 +35,22 @@ Here’s how things are stacked up on your machine:
 
 When you write Java code:
 
-![Pasted image 20250613173355.png](/img/user/Pasted%20image%2020250613173355.png)
+```java
+System.out.println("Hello World");
+```
 
 You must:
 
 1. **Compile it** using:
-![Pasted image 20250613173428.png](/img/user/Pasted%20image%2020250613173428.png)
+```
+javac hello.java
+```
 - This creates a `hello.class` file — **bytecode**.
     
 - **Run it** using:
-![Pasted image 20250613173456.png](/img/user/Pasted%20image%2020250613173456.png)
+```
+java hello
+```
 
 > JVM runs `hello.class` and executes the program.
 
@@ -68,5 +74,7 @@ You must:
 ### 🧩 Main Method is Mandatory
 
 JVM **requires** the file you run to contain:
-![Pasted image 20250613173523.png](/img/user/Pasted%20image%2020250613173523.png)
+```java
+public static void main(String[] args)
+```
 This is the **starting point** of the program.
