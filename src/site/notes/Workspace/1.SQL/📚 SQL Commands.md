@@ -84,11 +84,11 @@ This includes creating, modifying, or deleting tables and databases.
 
 ## 🧠 Summary Table:
 
-|Type|Full Form|Purpose|Key Commands|
-|---|---|---|---|
-|DDL|Data Definition Language|Define structure|`CREATE`, `DROP`, `ALTER`, `TRUNCATE`|
-|DQL|Data Query Language|Query data|`SELECT`|
-|DML|Data Manipulation Language|Modify data|`INSERT`, `UPDATE`, `DELETE`|
-|DCL|Data Control Language|Access control|`GRANT`, `REVOKE`|
-|TCL|Transaction Control Language|Transaction control|`COMMIT`, `ROLLBACK`, `SAVEPOINT`|
+| Type | Full Form                    | Purpose             | Key Commands                          |
+| ---- | ---------------------------- | ------------------- | ------------------------------------- |
+| DDL  | Data Definition Language     | Define structure    | `CREATE`, `DROP`, `ALTER`, `TRUNCATE` |
+| DQL  | Data Query Language          | Query data          | `SELECT`                              |
+| DML  | Data Manipulation Language   | Modify data         | `INSERT`, `UPDATE`, `DELETE`          |
+| DCL  | Data Control Language        | Access control      | `GRANT`, `REVOKE`                     |
+| TCL  | Transaction Control Language | Transaction control | `COMMIT`, `ROLLBACK`, `SAVEPOINT`     |
 [[Workspace/1.SQL/📚 Basic Database and Table Queries in SQL\|Next]]
