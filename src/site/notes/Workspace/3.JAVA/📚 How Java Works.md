@@ -24,7 +24,7 @@
 
 Here’s how things are stacked up on your machine:
 
-![Pasted image 20250613190429.png](/img/user/Pasted%20image%2020250613190429.png)
+![[Pasted image 20250613190429.png\|Pasted image 20250613190429.png]]
 
 - JVM is specific to the OS.  
     Example: A Windows JVM won’t run on macOS, and vice versa.

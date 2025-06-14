@@ -73,12 +73,12 @@ A **database** is a structured collection of data that is stored and accessed el
 
 ## 🆚 RDBMS vs NoSQL
 
-|Feature|RDBMS|NoSQL|
-|---|---|---|
-|Structure|Table-based|Document / Key-value / Graph etc.|
-|Query Language|SQL|Varies (No standard)|
-|Relationships|Supports complex relationships|Often denormalized data|
-|Examples|MySQL, Oracle|MongoDB, Redis|
+| Feature        | RDBMS                          | NoSQL                             |
+| -------------- | ------------------------------ | --------------------------------- |
+| Structure      | Table-based                    | Document / Key-value / Graph etc. |
+| Query Language | SQL                            | Varies (No standard)              |
+| Relationships  | Supports complex relationships | Often denormalized data           |
+| Examples       | MySQL, Oracle                  | MongoDB, Redis                    |
 
 ### ✅ What is SQL?
 

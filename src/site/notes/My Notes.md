@@ -33,7 +33,7 @@ The notes here are a combination of my own learning ✍️ and insights collecte
     Click on any node to open related topics and see how ideas are linked.
     
 -  **Internal Links**  
-    Notes that are connected to other notes have this ![Pasted image 20250608222112.png](/img/user/img/Pasted%20image%2020250608222112.png) icon.  
+    Notes that are connected to other notes have this ![[Pasted image 20250608222112.png\|Pasted image 20250608222112.png]] icon.  
     Clicking it will take you to related content within the garden.
 ---
 
