@@ -135,3 +135,5 @@ CopyEdit
 > SQL has different data types to store strings, numbers, and dates.  
 > Always define the right type for each column.  
 > Use `UNSIGNED` when only positive values are allowed to extend the positive range.
+
+[[Workspace/1.SQL/📚 SQL Commands\|Next]]

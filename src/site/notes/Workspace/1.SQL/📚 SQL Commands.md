@@ -91,3 +91,4 @@ This includes creating, modifying, or deleting tables and databases.
 |DML|Data Manipulation Language|Modify data|`INSERT`, `UPDATE`, `DELETE`|
 |DCL|Data Control Language|Access control|`GRANT`, `REVOKE`|
 |TCL|Transaction Control Language|Transaction control|`COMMIT`, `ROLLBACK`, `SAVEPOINT`|
+[[Workspace/1.SQL/📚 Basic Database and Table Queries in SQL\|Next]]

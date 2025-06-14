@@ -92,3 +92,4 @@ A **table** is a structured format where data is stored in the form of:
         
     - Schema = Column definitions
 
+[[Workspace/1.SQL/📚 Data types\|Next]]

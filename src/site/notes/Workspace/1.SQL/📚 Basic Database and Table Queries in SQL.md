@@ -20,8 +20,6 @@ CREATE DATABSE IF NOT EXIST xyz;
 
 Before creating tables or inserting data, **select the database** you want to use:
 
-![[Pasted image 20250608150234.png\|Pasted image 20250608150234.png]]
-
 ```sql
 USE xyz;
 ```
@@ -54,7 +52,6 @@ CREATE TABLE employee (
 ### 📌 **4. Inserting Data into Table**
 
 Use `INSERT INTO` to add records (rows) into a table.
-![[Pasted image 20250608150337.png\|Pasted image 20250608150337.png]]
 
 ```sql
 INSERT INTO employee

@@ -126,3 +126,4 @@ It is a **special language** used to interact with **relational databases**.
 
 > **SQL is a powerful language used to manage and communicate with relational databases by performing operations like creating, reading, updating, and deleting data in a structured format.**
 
+[[Workspace/1.SQL/📚 SQL Structure\|Next]]
