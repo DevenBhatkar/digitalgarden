@@ -57,7 +57,7 @@
 
 ---
 
-### 🌟 Key Features of Java (briefly mentioned)
+### 🌟 Key Features of Java
 
 - **WORA** – Write Once, Run Anywhere
     

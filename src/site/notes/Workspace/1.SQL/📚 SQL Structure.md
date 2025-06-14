@@ -12,7 +12,6 @@ Example:
 - A **college database** may have:
     
     - `Student` table
-    - 
         
     - `Fees` table
         

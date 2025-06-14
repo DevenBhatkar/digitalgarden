@@ -39,13 +39,8 @@ if(age >= 18) {
 ## 🧭 **If Else If in Java**
 
 ### 📌 Purpose:
-
 Used when you need to **check multiple conditions** in a sequence.
-
----
-
 ### 🧪 Example :
-
 ```java
 int marks = 65;
 

@@ -75,7 +75,7 @@ Hello World
 ```
 ---
 
-### 🧾 Behind the Scenes (Simplified)
+### 🧾 Behind the Scenes
 
 Your Code (.java)
    ⬇️ javac

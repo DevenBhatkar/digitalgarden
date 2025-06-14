@@ -84,7 +84,7 @@ for(int i = 1; i <= 5; i++) {
 
 ---
 
-### ❓ 5. **Which Loop to Use?** (02:50:06)
+### ❓ 5. **Which Loop to Use?** 
 
 |Use Case|Loop|
 |---|---|

@@ -21,7 +21,7 @@
 
 ---
 
-### 📦 Examples from the video:
+### 📦 Examples:
 
 - Store a number:
 ```java

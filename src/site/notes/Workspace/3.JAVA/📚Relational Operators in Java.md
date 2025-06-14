@@ -9,7 +9,7 @@ They return a **boolean result** — either `true` or `false`.
 
 ---
 
-### 🧪 Operators covered in the video:
+### 🧪 Operators :
 
 |Operator|Meaning|Example|
 |---|---|---|

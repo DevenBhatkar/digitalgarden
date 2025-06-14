@@ -20,7 +20,7 @@
         
     - JVM reads and executes this **bytecode**, not your `.java` code.
 
-### 🧱 The Layered Architecture (as explained in the video)
+### 🧱 The Layered Architecture
 
 Here’s how things are stacked up on your machine:
 
