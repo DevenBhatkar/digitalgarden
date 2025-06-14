@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/workspace/1-sql/basic-database-and-table-queries-in-sql/","noteIcon":""}
 ---
 
-### 📌 **1. Creating a Database**
+### 📌 **1. Creating a [[Workspace/1.SQL/📚 Introduction#📌 What is a Database?\|Database]]**
 
 Use the `CREATE DATABASE` command to make a new database.
 ![Pasted image 20250608150156.png](/img/user/img/Pasted%20image%2020250608150156.png)📝 This creates a database named **xyz**.
@@ -68,3 +68,4 @@ Use the `SELECT` command to view data:
 |`CREATE TABLE`|Create a new table structure|
 |`INSERT INTO`|Add records into the table|
 |`SELECT * FROM table`|View all data in a table|
+[[📚 #\|📚 #]]
