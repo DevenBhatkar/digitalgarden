@@ -25,15 +25,15 @@ The notes here are a combination of my own learning ✍️ and insights collecte
 ---
 
 **Navigation Tips**  
-- 🔍 **Right Side – Search Bar**  
+- 🔍 **Search Bar**  
     Use the search bar to quickly find specific topics or keywords.
     
-- 🗺️ **Left Side – Navigation Map**  
+- 🗺️ **Navigation Map**  
     Explore a visual map of connected notes.  
     Click on any node to open related topics and see how ideas are linked.
     
 -  **Internal Links**  
-    Notes that are connected to other notes have this ![[Pasted image 20250608222112.png\|Pasted image 20250608222112.png]] icon.  
+    Notes that are connected to other notes have this ![Pasted image 20250617210937.png](/img/user/Pasted%20image%2020250617210937.png) icon.  
     Clicking it will take you to related content within the garden.
 ---
 
