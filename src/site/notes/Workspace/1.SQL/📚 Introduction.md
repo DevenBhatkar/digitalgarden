@@ -5,7 +5,7 @@
 
 ## 📌 What is a Database?
 
-A **databas* is a structured collection of data that is stored and accessed electronically. It allows easy storage, access, manipulation, and management of data.
+A **database* is a structured collection of data that is stored and accessed electronically. It allows easy storage, access, manipulation, and management of data.
 
 - In simple terms, it's like a digital filing system.
     
