@@ -37,17 +37,6 @@
 
 ---
 
-### 🤔 Is Java Hard?
-
-- Java **may feel difficult at the beginning**, especially if you're coming from languages like Python or JavaScript.
-    
-- In those languages, you can print something in **one line**, but Java needs **multiple lines** for the same task.
-    
-- But once you're building **bigger applications**, the line count becomes similar across languages.
-    
-
----
-
 ### ✅ Why Java is Preferred
 
 - Java is a **readable** language — easy to understand line by line.
