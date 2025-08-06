@@ -15,3 +15,4 @@
 11.[[Workspace/3.JAVA/📚Ternary Operator in Java\|📚Ternary Operator in Java]]
 12.[[Workspace/3.JAVA/📚Switch Statement in Java\|📚Switch Statement in Java]]
 13.[[Workspace/3.JAVA/📚Loops in Java\|📚Loops in Java]]
+14.📚[[Workspace/3.JAVA/Methods in java\|Methods in java]]
