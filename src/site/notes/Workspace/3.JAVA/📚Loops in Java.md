@@ -51,7 +51,7 @@ do {
 
 📍 Example 
 ```java
-int i = 1;
+int i = 1; 
 do {
     System.out.println("Hello " + i);
     i++;

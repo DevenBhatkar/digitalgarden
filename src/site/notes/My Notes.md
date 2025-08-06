@@ -14,13 +14,9 @@ The notes here are a combination of my own learning ✍️ and insights collecte
 ---
 
 **Topics Covered**
-
-- 🔍 [[Navigation/SQL\|SQL]]
-    
-- ☁️ AWS
-    
-- ☕ [[Navigation/JAVA\|JAVA]]
-    
+- [[Navigation/SQL\|SQL]]
+- [[Navigation/JAVA\|JAVA]]
+- [[Navigation/AWS\|AWS]]
 
 ---
 
@@ -33,7 +29,7 @@ The notes here are a combination of my own learning ✍️ and insights collecte
     Click on any node to open related topics and see how ideas are linked.
     
 -  **Internal Links**  
-    Notes that are connected to other notes have this ![Pasted image 20250617210937.png](/img/user/Pasted%20image%2020250617210937.png) icon.  
+    Notes that are connected to other notes have this ![Pasted image 20250617210937.png](/img/user/img/Pasted%20image%2020250617210937.png) icon.  
     Clicking it will take you to related content within the garden.
 ---
 

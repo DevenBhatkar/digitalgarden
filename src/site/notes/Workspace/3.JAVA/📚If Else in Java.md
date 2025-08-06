@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/workspace/3-java/if-else-in-java/","noteIcon":""}
 ---
 
-### 📌 Purpose:
+	### 📌 Purpose:
 
 `if-else` is used to **make decisions** in Java based on **true/false conditions**.
 

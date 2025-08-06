@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/workspace/3-java/data-types-in-java/","noteIcon":""}
 ---
 
+
+### What is datatypes:
+ it is specification which defines what kind of data/values/literal/constants can be 
+ stored inside particular var.
+
+
 ### 📂 Types of Data Types:
 
 Java data types are divided into two broad categories:

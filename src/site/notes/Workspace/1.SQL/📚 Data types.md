@@ -5,15 +5,15 @@
 ## 📦 What are SQL Data Types?
 
 **Data types** define the **kind of data** that can be stored in a column.  
-Each column in a table must have a **data type**, so the database knows what kind of values to expect.
+Each column in a table must have a **data type**, so the database knows what kind of values to expect
 
 Example:
 
 - Name → `VARCHAR`
     
-- Age → `INT`
+- Age → `NUMBER`
     
-- Marks → `FLOAT`
+- Marks → `NUMBER(PRECISION,SCALE`)
     
 - Join Date → `DATE`
     

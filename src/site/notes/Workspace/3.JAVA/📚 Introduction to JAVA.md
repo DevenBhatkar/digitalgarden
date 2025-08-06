@@ -3,7 +3,7 @@
 ---
 
 - Java is one of the **top 5 programming languages** in the world. You’ll often find it ranked from 1st to 4th in various programming indexes.
-    
+      
 - It is used in:
     
     - **Enterprise applications**

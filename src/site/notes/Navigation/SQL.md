@@ -7,3 +7,4 @@
 3.[[Workspace/1.SQL/📚 SQL Structure\|📚 SQL Structure]]
 4.[[Workspace/1.SQL/📚 SQL Commands\|📚 SQL Commands]]
 5.[[Workspace/1.SQL/📚 Data types\|📚 Data types]]
+6.📚[[SQL_QSP/Excalidraw/Constraints\|Constraints]]
