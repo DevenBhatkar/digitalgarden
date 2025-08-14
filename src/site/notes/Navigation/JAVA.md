@@ -20,7 +20,6 @@
 16.[[Workspace/3.JAVA/🚘Fundamental of oop\|📚Fundamental of oop]]
 17.[[JAVA_SUJ/fundamental_OOP/🏗️ Constructor\|📚Constructors]]
 18.[[Workspace/3.JAVA/🔗 Constructor Chaining\|📚Constructor Chaining]]
-19.[[Workspace/3.JAVA/🔗 Constructor Chaining\|🔗 Constructor Chaining]]
 
 
 ### OOP
