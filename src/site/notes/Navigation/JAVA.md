@@ -19,7 +19,7 @@
 15.📚[[Workspace/3.JAVA/📚this (keyword)\|this(keyword)]]
 16.[[Workspace/3.JAVA/🚘Fundamental of oop\|📚Fundamental of oop]]
 17.[[JAVA_SUJ/fundamental_OOP/🏗️ Constructor\|📚Constructors]]
-18.[[JAVA_SUJ/fundamental_OOP/🧱Non-Static block\|📚Non-Static Block]]
+18.[[Workspace/3.JAVA/🔗 Constructor Chaining\|📚Constructor Chaining]]
 19.[[Workspace/3.JAVA/🔗 Constructor Chaining\|🔗 Constructor Chaining]]
 
 
