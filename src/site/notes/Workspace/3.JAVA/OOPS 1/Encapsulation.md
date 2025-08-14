@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workspace/3-java/oops-1/encapsulation/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/workspace/3-java/oops-1/encapsulation/","noteIcon":""}
 ---
 
 
