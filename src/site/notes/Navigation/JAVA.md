@@ -18,7 +18,7 @@
 14.📚[[Workspace/3.JAVA/Methods in java\|Methods in java]]
 15.📚[[Workspace/3.JAVA/📚this (keyword)\|this(keyword)]]
 16.[[Workspace/3.JAVA/🚘Fundamental of oop\|📚Fundamental of oop]]
-17.[[JAVA_SUJ/fundamental_OOP/🏗️ Constructor\|📚Constructors]]
+17.[[Workspace/3.JAVA/🏗️ Constructor\|📚 Constructor]]
 18.[[Workspace/3.JAVA/🔗 Constructor Chaining\|📚Constructor Chaining]]
 
 
