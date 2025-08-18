@@ -20,6 +20,7 @@
 16.[[Workspace/3.JAVA/🚘Fundamental of oop\|📚Fundamental of oop]]
 17.[[Workspace/3.JAVA/🏗️ Constructor\|📚 Constructor]]
 18.[[Workspace/3.JAVA/🔗 Constructor Chaining\|📚Constructor Chaining]]
+19.[[Workspace/3.JAVA/Object Class\|Object Class]]
 
 
 ### OOP
@@ -27,4 +28,3 @@
 1.[[Workspace/3.JAVA/OOPS 1/OOPS\|OOPS]]
 2.[[Workspace/3.JAVA/OOPS 1/Encapsulation\|Encapsulation]]
 3.[[Workspace/3.JAVA/OOPS 1/Inheritance\|Inheritance]]
-4.
