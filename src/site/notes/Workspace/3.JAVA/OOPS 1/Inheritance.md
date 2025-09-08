@@ -183,21 +183,21 @@ This happens due to **constructor chaining** using the `super` calling statement
 ### Object class
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/workspace/3-java/oops-1/object-class/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/java-suj/oops/object-class/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-**Definition:**
+**Definition:**+
 
-- The **`Object` class** is the **supermost class** for all Java classes.
+- The *Object class* is the *supermost*class for all Java classes.
     
-- If any class does not explicitly extend another class, it **implicitly extends `Object`**.
+- If any class does not explicitly extend another class, it **implicitly extends `Object`.
     
 
 **Location:**
 
-- Present in the **`java.lang`** package.
+- Present in the *java.lang* package.
     
 - The `Object` class constructor **does not** have a `super()` calling statement (because it has no superclass).
 
@@ -209,7 +209,7 @@ This happens due to **constructor chaining** using the `super` calling statement
     
 - Cannot use `super()` and `this()` in the **same constructor**.
     
-- If the programmer does not write a `super()` statement, the compiler will automatically insert a **no-argument `super()` call**.
+- If the programmer does not write a `super()` statement, the compiler will automatically insert a *no-argument `super()` call*.
 
 ```java
 class DhiruBhai {
@@ -257,7 +257,7 @@ Main Start
 Main End
 ```
 
-## **`this()` vs `super()`**
+## *`this()`* vs *`super()`*
 
 |Feature|`this()`|`super()`|
 |---|---|---|
@@ -273,8 +273,123 @@ Main End
     
 2. Constructor chaining **always starts from the topmost parent class**.
     
-3. **`super()`** is inserted by the compiler automatically if not written.
+3. *`super()`* is inserted by the compiler automatically if not written.
 
 </div></div>
 
+
+### 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/workspace/3-java/oops-1/types-of-inheritance/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+1) Single level Inheritance
+2) multilevel inheritance
+3) heararical inheritance
+4) multiple inheritance
+5) Hybrid Inhertitance
+
+![Pasted image 20250818122329.png|500](/img/user/Pasted%20image%2020250818122329.png)
+
+
+### Single level inheritance
+
+- One subclass is having only one super class is know as single level inheritance
+
+### Multi level inheritance
+
+- A subclass is having more than one super class at different level is known as *multi-level inheritance*
+
+### Example:
+
+```java
+public class Demo {  
+    public static void main(String[] args)   
+    {  
+        Son s=new Son();  
+  
+        System.out.println(s.grandMoney);  
+        System.out.println(s.fatherMoney);
+        System.out.println(s.sonMoney);   
+    }  
+}  
+  
+class Grandfather  
+{  
+    int grandMoney=1000;  
+}  
+  
+class Father extends Grandfather  
+{  
+    int fatherMoney=1000;  
+}  
+  
+class Son extends Father  
+{  
+    int sonMoney;  
+}
+```
+
+### Output
+
+```css
+1000
+1000
+0
+```
+
+
+### Herarical inheritance
+
+- One super class is having more than one subclass at same level is know as *herarical inheritance*
+
+### Example:
+
+```java
+public class Demo {  
+    public static void main(String[] args)  
+    {  
+        Father f= new Father();  
+        System.out.println(f.fatherMoney);  
+  
+        Son s=new Son();  
+        System.out.println(s.sonMoney);  
+  
+        Daughter d= new Daughter();  
+        System.out.println(d.daughterMoney);  
+  
+          
+  
+  
+    }  
+}  
+  
+class Father  
+{  
+    int fatherMoney=1000;  
+}  
+  
+class Son extends Father  
+{  
+    int sonMoney;  
+}  
+class Daughter extends Father  
+{  
+    int daughterMoney;  
+}
+```
+
+### Output
+
+```css
+1000
+0
+0
+```
+
+
+
+</div></div>
 

@@ -2,16 +2,16 @@
 {"dg-publish":true,"permalink":"/workspace/3-java/oops-1/object-class/","noteIcon":""}
 ---
 
-**Definition:**
+**Definition:**+
 
-- The **`Object` class** is the **supermost class** for all Java classes.
+- The *Object class* is the *supermost*class for all Java classes.
     
-- If any class does not explicitly extend another class, it **implicitly extends `Object`**.
+- If any class does not explicitly extend another class, it **implicitly extends `Object`.
     
 
 **Location:**
 
-- Present in the **`java.lang`** package.
+- Present in the *java.lang* package.
     
 - The `Object` class constructor **does not** have a `super()` calling statement (because it has no superclass).
 
@@ -23,7 +23,7 @@
     
 - Cannot use `super()` and `this()` in the **same constructor**.
     
-- If the programmer does not write a `super()` statement, the compiler will automatically insert a **no-argument `super()` call**.
+- If the programmer does not write a `super()` statement, the compiler will automatically insert a *no-argument `super()` call*.
 
 ```java
 class DhiruBhai {
@@ -71,7 +71,7 @@ Main Start
 Main End
 ```
 
-## **`this()` vs `super()`**
+## *`this()`* vs *`super()`*
 
 |Feature|`this()`|`super()`|
 |---|---|---|
@@ -87,4 +87,4 @@ Main End
     
 2. Constructor chaining **always starts from the topmost parent class**.
     
-3. **`super()`** is inserted by the compiler automatically if not written.
+3. *`super()`* is inserted by the compiler automatically if not written.
