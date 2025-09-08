@@ -33,8 +33,8 @@
 
 ### Object class methods
 
-1.[[JAVA_SUJ/Object_Class/1.Object Class\|Object Class]]
+1.[[Workspace/3.JAVA/Object_Class_DG/1.Object Class\|1.Object Class]]
 2.[[Workspace/3.JAVA/Object_Class_DG/equals()\|equals()]]
-3.[[JAVA_SUJ/Object_Class/hashCode()\|hashCode()]]
+3.[[Workspace/3.JAVA/Object_Class_DG/hashCode()\|hashCode()]]
 4.[[Workspace/3.JAVA/Object_Class_DG/toString()\|toString()]]
 
