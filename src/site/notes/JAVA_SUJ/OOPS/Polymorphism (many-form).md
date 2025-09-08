@@ -48,11 +48,6 @@ That’s **Polymorphism = "many forms"**.
 
 - A subclass and superclass is having static or non static variable with same name is known as variable shadowing - 
 - Which variable to be called is decided during compile time, based on reference variable type
-```java
-
-```
-
-
 ### Method shadowing 
 
 - A subclass and superclass is having static method with same name,access specifier,returntype,and formal argument is known as method shadowing 
