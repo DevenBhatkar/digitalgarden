@@ -38,3 +38,8 @@
 3.[[Workspace/3.JAVA/Object_Class_DG/hashCode()\|hashCode()]]
 4.[[Workspace/3.JAVA/Object_Class_DG/toString()\|toString()]]
 
+### Collection
+
+1.[[Workspace/3.JAVA/Collection_dg/Array Introduction\|Array Introduction]]
+2.[[Workspace/3.JAVA/Collection_dg/Collection\|Collection]]
+
