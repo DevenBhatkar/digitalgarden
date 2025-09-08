@@ -6,11 +6,11 @@
 
 ### Type of Interface
 
-1) Normal
+1) **Normal**
 - A interface which can contain one or more than one abstract method in known as , normal or regular interface
-2) Marker Interface
+2) **Marker Interface**
 - A interface which does not have any abstract method
-3) Functional Interface
+3) **Functional Interface**
 - A interface which has only one abstract method in known functional interface
 - For functional interface we use *@functionalInterface* Annotation
 - Runnable is a functional interface which has *run()* 
