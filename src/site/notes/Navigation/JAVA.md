@@ -27,6 +27,6 @@
 
 1.[[Workspace/3.JAVA/OOPS 1/OOPS\|OOPS]]
 2.[[Workspace/3.JAVA/OOPS 1/Encapsulation\|Encapsulation]]
-3.[[Workspace/3.JAVA/OOPS 1/Inheritance\|Inheritance]]
+3.[[JAVA_SUJ/OOPS/Inheritance\|Inheritance]]
 4.[[JAVA_SUJ/OOPS/Polymorphism (many-form)\|Polymorphism (many-form)]]
 5.[[Workspace/3.JAVA/OOPS 1/Inheritance\|Inheritance]]
