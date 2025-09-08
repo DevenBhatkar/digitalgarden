@@ -30,3 +30,11 @@
 3.[[Workspace/3.JAVA/OOPS 1/Inheritance\|Inheritance]]
 4.[[Workspace/3.JAVA/OOPS 1/Polymorphism (many-form)\|Polymorphism (many-form)]]
 5.[[Workspace/3.JAVA/OOPS 1/Abstraction\|Abstraction]]
+
+### Object class methods
+
+1.[[JAVA_SUJ/Object_Class/1.Object Class\|Object Class]]
+2.[[Workspace/3.JAVA/Object_Class_DG/equals()\|equals()]]
+3.[[JAVA_SUJ/Object_Class/hashCode()\|hashCode()]]
+4.[[Workspace/3.JAVA/Object_Class_DG/toString()\|toString()]]
+
