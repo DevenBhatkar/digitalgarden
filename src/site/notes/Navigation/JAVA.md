@@ -29,4 +29,4 @@
 2.[[Workspace/3.JAVA/OOPS 1/Encapsulation\|Encapsulation]]
 3.[[Workspace/3.JAVA/OOPS 1/Inheritance\|Inheritance]]
 4.[[Workspace/3.JAVA/OOPS 1/Polymorphism (many-form)\|Polymorphism (many-form)]]
-5.[[Workspace/3.JAVA/OOPS 1/Inheritance\|Inheritance]]
+5.[[Workspace/3.JAVA/OOPS 1/Abstraction\|Abstraction]]
