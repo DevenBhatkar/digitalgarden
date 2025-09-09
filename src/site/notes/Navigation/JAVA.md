@@ -42,3 +42,4 @@
 
 1.[[Workspace/3.JAVA/Collection_dg/Array Introduction\|Array Introduction]]
 2.[[Workspace/3.JAVA/Collection_dg/Collection\|Collection]]
+3.[[Workspace/3.JAVA/Collection_dg/List/Characteristic of List\|Characteristic of List]]
