@@ -30,7 +30,7 @@ public class Demo{
     mh.add("Misal pav");  
     mh.add("Puran Poli");  
     System.out.println("Mh :"+mh);  
-      
+  
     List<String>up=new ArrayList<>();  
     up.add("Litti choka");  
     up.add("malaiyo");  
@@ -39,35 +39,35 @@ public class Demo{
     System.out.println("UP :"+up);  
   
     List<String>tn=new ArrayList<>();  
-      
+  
     tn.add("idli");  
     tn.add("Dosa");  
     tn.add("vada");  
     tn.add("Chutney");  
     System.out.println("TN :"+tn);  
-      
+  
     List<String>gj=new ArrayList<>();  
-      
+  
     gj.add("Dhokla");  
     gj.add("undhiu");  
     gj.add("Jalebi Fafda");  
     gj.add("Locho");  
   
     System.out.println("GJ :"+gj);  
-      
+  
     List<String>indian_Hotel=new ArrayList<>();  
-      
-      
+  
+  
     indian_Hotel.addAll(gj);  
     indian_Hotel.addAll(mh);  
     indian_Hotel.addAll(tn);  
     indian_Hotel.addAll(up);  
   
-    System.out.println(indian_Hotel);  
-      
-      
+        System.out.println("Indian Hotel"+indian_Hotel);  
+  
+  
     List<String>china=new ArrayList<>();  
-      
+  
     china.add("Triple rice");  
     china.add("EggRice");  
     china.add("soup");  
@@ -76,36 +76,41 @@ public class Demo{
     System.out.println("China :"+china);  
   
     indian_Hotel.addAll(4,china);  
-      
+  
     indian_Hotel.remove("Jalebi Fafda");  
   
-        System.out.println(indian_Hotel);  
-          
-          
+        System.out.println("Indian Hotel"+indian_Hotel);  
+  
+  
         indian_Hotel.removeAll(gj);  
   
         System.out.println(indian_Hotel);  
-          
-      
-          
-          
+  
+  
+        indian_Hotel.clear();  
+  
+        System.out.println("Indian Hotel :"+indian_Hotel);  
+  
+  
+  
   
     }  
   
 }
 ```
 
-### Output
+### Output: 
 
 ```css
 Mh :[vadapav, modak, Misal pav, Puran Poli]
 UP :[Litti choka, malaiyo, Tomato Chatt, Champaran]
 TN :[idli, Dosa, vada, Chutney]
 GJ :[Dhokla, undhiu, Jalebi Fafda, Locho]
-[Dhokla, undhiu, Jalebi Fafda, Locho, vadapav, modak, Misal pav, Puran Poli, idli, Dosa, vada, Chutney, Litti choka, malaiyo, Tomato Chatt, Champaran]
+Indian Hotel[Dhokla, undhiu, Jalebi Fafda, Locho, vadapav, modak, Misal pav, Puran Poli, idli, Dosa, vada, Chutney, Litti choka, malaiyo, Tomato Chatt, Champaran]
 China :[Triple rice, EggRice, soup, ChopperRice]
-[Dhokla, undhiu, Locho, Triple rice, EggRice, soup, ChopperRice, vadapav, modak, Misal pav, Puran Poli, idli, Dosa, vada, Chutney, Litti choka, malaiyo, Tomato Chatt, Champaran]
+Indian Hotel[Dhokla, undhiu, Locho, Triple rice, EggRice, soup, ChopperRice, vadapav, modak, Misal pav, Puran Poli, idli, Dosa, vada, Chutney, Litti choka, malaiyo, Tomato Chatt, Champaran]
 [Triple rice, EggRice, soup, ChopperRice, vadapav, modak, Misal pav, Puran Poli, idli, Dosa, vada, Chutney, Litti choka, malaiyo, Tomato Chatt, Champaran]
+Indian Hotel :[]
 ```
 
 
