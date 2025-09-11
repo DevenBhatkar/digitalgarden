@@ -49,3 +49,11 @@ public class Demo {
 Implicit Unboxing :10
 Explicit Unboxing :10
 ```
+
+
+| Situation                | What to use                    |
+| ------------------------ | ------------------------------ |
+| `double → int`           | **Typecast** `(int)d`          |
+| `"123" → Integer object` | `Integer.valueOf("123")`       |
+| `"123" → int`            | `Integer.parseInt("123")`      |
+| `Integer object → int`   | `intValue()`(or auto-unboxing) |
