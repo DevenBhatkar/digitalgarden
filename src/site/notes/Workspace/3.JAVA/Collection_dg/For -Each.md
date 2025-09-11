@@ -52,3 +52,22 @@ public class Demo {
 }
 ```
 
+### Difference between for and for-each
+
+|Feature|`for` loop|`for-each` loop|
+|---|---|---|
+|**Index access**|Available|Not available|
+|**Modification**|Can update elements via index|Cannot reassign elements (but can modify object fields)|
+|**Traversal control**|Full (forward, backward, skip steps)|Sequential only (forward)|
+|**Readability**|Slightly verbose|Cleaner, simpler|
+|**Use case**|When you need index or updates|When you only need to read|
+
+### Difference between for-each and iterator
+
+|Feature|For-each loop|Iterator|
+|---|---|---|
+|**Read elements**|Yes|Yes|
+|**Remove elements**|❌ Not possible safely|✅ Possible using `remove()`|
+|**Access index**|❌ No|❌ No (need ListIterator for index)|
+|**Code simplicity**|Very simple|More verbose|
+|**Use case**|Reading elements|Removing elements during traversal, or finer control|
