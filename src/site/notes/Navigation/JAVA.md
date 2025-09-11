@@ -44,3 +44,4 @@
 2.[[Workspace/3.JAVA/Collection_dg/Collection\|Collection]]
 3.[[Workspace/3.JAVA/Collection_dg/Wrappers\|Wrappers]]
 4.[[Workspace/3.JAVA/Collection_dg/List/Characteristic of List\|Characteristic of List]]
+5.[[Workspace/3.JAVA/Collection_dg/For -Each\|For -Each]]
