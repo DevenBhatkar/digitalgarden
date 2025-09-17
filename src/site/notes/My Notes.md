@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/my-notes/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-# 👋 **Welcome to My Notes ( Currently-Updating)**
+# 👋 **Welcome to My Notes **
 
 **About**  
 Hi! I'm Deven Bhatkar, a tech enthusiast and Engineering graduate 🎓.
